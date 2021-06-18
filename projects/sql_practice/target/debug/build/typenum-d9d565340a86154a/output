@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Volumes/Work Space/LearnRust/projects/sql_practice/target/debug/build/typenum-d9d565340a86154a/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Volumes/Work Space/LearnRust/projects/sql_practice/target/debug/build/typenum-d9d565340a86154a/out/op.rs
