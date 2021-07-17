@@ -1,0 +1,12 @@
+/Volumes/Work Space/LearnRust/projects/actix-gcd/target/debug/deps/actix_router-860746be1f1f88ac.rmeta: /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/lib.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/de.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/path.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/resource.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/router.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/url.rs
+
+/Volumes/Work Space/LearnRust/projects/actix-gcd/target/debug/deps/libactix_router-860746be1f1f88ac.rlib: /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/lib.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/de.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/path.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/resource.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/router.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/url.rs
+
+/Volumes/Work Space/LearnRust/projects/actix-gcd/target/debug/deps/actix_router-860746be1f1f88ac.d: /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/lib.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/de.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/path.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/resource.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/router.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/url.rs
+
+/Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/lib.rs:
+/Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/de.rs:
+/Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/path.rs:
+/Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/resource.rs:
+/Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/router.rs:
+/Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/url.rs:

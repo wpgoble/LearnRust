@@ -1,0 +1,11 @@
+/Volumes/Work Space/LearnRust/projects/actix-gcd/target/debug/deps/actix_codec-d79f62d2a9d51b88.rmeta: /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/lib.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/bcodec.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_read.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_write.rs
+
+/Volumes/Work Space/LearnRust/projects/actix-gcd/target/debug/deps/libactix_codec-d79f62d2a9d51b88.rlib: /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/lib.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/bcodec.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_read.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_write.rs
+
+/Volumes/Work Space/LearnRust/projects/actix-gcd/target/debug/deps/actix_codec-d79f62d2a9d51b88.d: /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/lib.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/bcodec.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_read.rs /Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_write.rs
+
+/Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/lib.rs:
+/Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/bcodec.rs:
+/Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed.rs:
+/Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_read.rs:
+/Users/goble/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_write.rs:
